@@ -115,3 +115,6 @@ Nella maggior parte dei casi è comunque possibile estrarre i dati tramite espor
 
 #### 20. Cos'è il servizio di Data Manager Frazionato e quando conviene?
 È un servizio mensile a canone fisso che ti permette di avere un esperto di dati nel tuo team per un numero concordato di ore al mese. Conviene alle aziende in crescita che hanno bisogno di aggiornare costantemente i report, analizzare nuove metriche e ricevere supporto strategico continuo.
+
+
+### Copyright © 2026 Shivers Arturo Crispin PL, P.Iva EU IT03881300549 | n.REA PG373518 - Tutti i diritti riservati.
