@@ -102,7 +102,7 @@ Assolutamente sì. Le dashboard sono progettate per essere altamente **intuitive
 ### 🔐 Sicurezza, Privacy e Budget
 
 #### 16. Come viene garantita la sicurezza e la privacy dei dati aziendali?
-I dati vengono elaborati seguendo i più rigidi standard di sicurezza informatica e in piena conformità con il **GDPR**. L'accesso ai database è protetto da credenziali crittografate e limitato solo alle figure autorizzate.[Legge la nostra polizza sulla privacy](https://privacy.studioshiversqed.com)
+I dati vengono elaborati seguendo i più rigidi standard di sicurezza informatica e in piena conformità con il **GDPR**. L'accesso ai database è protetto da credenziali crittografate e limitato solo alle figure autorizzate.[Leggi la nostra polizza sulla privacy](https://privacy.studioshiversqed.com)
 
 #### 17. Firmiamo un accordo di riservatezza (NDA) prima di iniziare?
 Sì. Prima di ricevere qualsiasi credenziale o file contenente dati aziendali, fornitori o clienti, firmeremo un **accordo di non divulgazione (NDA)** a tutela totale della tua proprietà intellettuale e del tuo business.
